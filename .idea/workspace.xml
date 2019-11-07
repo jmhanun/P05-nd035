@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c51b3e9-b68a-4827-9f14-78090ee0141e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="326" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S4MJ5IEsi5wiS8Qv5OU6jX98Iz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../P04-ReviewsAPI" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.UserControllerTest">
+    <configuration name="OrderControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controllers.OrderControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderControllerTest.getOrdersForUserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controllers.OrderControllerTest" />
+      <option name="METHOD_NAME" value="getOrdersForUserTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderControllerTest.getOrdersForUserWithUserNullTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controllers.OrderControllerTest" />
+      <option name="METHOD_NAME" value="getOrdersForUserWithUserNullTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderControllerTest.submitWithUserNullTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controllers.OrderControllerTest" />
+      <option name="METHOD_NAME" value="submitWithUserNullTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="auth-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.controllers.UserControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserControllerTest" />
+        <item itemvalue="JUnit.OrderControllerTest" />
+        <item itemvalue="JUnit.OrderControllerTest.getOrdersForUserWithUserNullTest" />
+        <item itemvalue="JUnit.OrderControllerTest.getOrdersForUserTest" />
+        <item itemvalue="JUnit.OrderControllerTest.submitWithUserNullTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c51b3e9-b68a-4827-9f14-78090ee0141e" name="Default Changelist" comment="" />
+      <created>1570818339658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570818339658</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="570" y="323" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1571266142924">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="570" y="323" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.808@0.23.1440.808" timestamp="1571266142924" />
+    <state x="399" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1571265238564">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="399" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1571265238564" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="MavenRunConfiguration">
+        <watch expression="request.getUserPrincipal().getName()" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/auth_course$OrderControllerTest.ic" NAME="OrderControllerTest Coverage Results" MODIFIED="1572987447627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$ItemControllerTest.ic" NAME="ItemControllerTest Coverage Results" MODIFIED="1572986498668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$UserControllerTest_create_user_wrong_path.ic" NAME="UserControllerTest.create_user_wrong_path Coverage Results" MODIFIED="1572961316363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$UserControllerTest_findUserByNameTest.ic" NAME="UserControllerTest.findUserByNameTest Coverage Results" MODIFIED="1572985191463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$UserControllerTest.ic" NAME="UserControllerTest Coverage Results" MODIFIED="1572987474834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$UserControllerTest_create_user_happy_path.ic" NAME="UserControllerTest.create_user_happy_path Coverage Results" MODIFIED="1572431437864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$ItemControllerTest_getAllTest.ic" NAME="ItemControllerTest.getAllTest Coverage Results" MODIFIED="1572979977333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$ItemControllerTest_getOneItemByIdTest.ic" NAME="ItemControllerTest.getOneItemByIdTest Coverage Results" MODIFIED="1572980344105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$OrderControllerTest_submitTest.ic" NAME="OrderControllerTest.submitTest Coverage Results" MODIFIED="1572984577936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$CartControllerTest_and_3_more.ic" NAME="CartControllerTest and 3 more Coverage Results" MODIFIED="1572985326439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/auth_course$SareetaApplicationTests.ic" NAME="SareetaApplicationTests Coverage Results" MODIFIED="1572294000419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/auth_course$CartControllerTest.ic" NAME="CartControllerTest Coverage Results" MODIFIED="1572987126982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.demo.controllers.*</FILTER>
+    </SUITE>
+  </component>
+</project>
