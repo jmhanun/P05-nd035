@@ -275,3 +275,22 @@ Caused by: org.springframework.beans.factory.support.BeanDefinitionOverrideExcep
 2019-11-11 10:09:45,777 INFO com.example.demo.SareetaApplicationTests [main] Started SareetaApplicationTests in 5.065 seconds (JVM running for 5.818)
 2019-11-11 10:09:45,841 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown initiated...
 2019-11-11 10:09:45,844 INFO com.zaxxer.hikari.HikariDataSource [Thread-3] HikariPool-1 - Shutdown completed.
+2019-11-11 14:51:49,981 INFO com.example.demo.SareetaApplication [main] Starting SareetaApplication on Dell with PID 18975 (/home/jmhanun/Dropbox/Desarrollo/udacity/nd035/P05/starter_code/target/classes started by jmhanun in /home/jmhanun/Dropbox/Desarrollo/udacity/nd035/P05/starter_code)
+2019-11-11 14:51:49,987 INFO com.example.demo.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2019-11-11 14:51:51,636 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-11-11 14:51:51,636 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-11-11 14:51:51,749 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2019-11-11 14:51:51,944 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2019-11-11 14:51:52,132 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2019-11-11 14:51:52,201 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-11-11 14:51:52,290 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2019-11-11 14:51:52,293 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2019-11-11 14:51:52,554 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-11-11 14:51:52,755 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-11-11 14:51:54,957 INFO com.example.demo.SareetaApplication [main] Started SareetaApplication in 5.352 seconds (JVM running for 9.143)
+2019-11-11 14:52:30,395 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-11 14:52:30,623 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [http-nio-8080-exec-2] HHH000397: Using ASTQueryTranslatorFactory
+2019-11-11 14:52:30,861 ERROR com.example.demo.security.JWTAuthenticationFilter [http-nio-8080-exec-2] #100 Login Fail
+2019-11-11 14:52:32,851 ERROR com.example.demo.security.JWTAuthenticationFilter [http-nio-8080-exec-3] #100 Login Fail
